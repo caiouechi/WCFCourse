@@ -1,0 +1,10 @@
+E:\WCFTraining\TransactionDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll.config
+E:\WCFTraining\TransactionDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll
+E:\WCFTraining\TransactionDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.pdb
+E:\WCFTraining\TransactionDemo\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.dll
+E:\WCFTraining\TransactionDemo\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.pdb
+E:\WCFTraining\TransactionsWithSessionsDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll.config
+E:\WCFTraining\TransactionsWithSessionsDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll
+E:\WCFTraining\TransactionsWithSessionsDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.pdb
+E:\WCFTraining\TransactionsWithSessionsDemo\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.dll
+E:\WCFTraining\TransactionsWithSessionsDemo\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.pdb

@@ -1,0 +1,8 @@
+E:\WCFTraining\TransactionsDemo\WebHost\bin\WebHost.dll.config
+E:\WCFTraining\TransactionsDemo\WebHost\bin\WebHost.dll
+E:\WCFTraining\TransactionsDemo\WebHost\bin\WebHost.pdb
+E:\WCFTraining\TransactionsDemo\WebHost\bin\ProductsServiceLibrary.dll
+E:\WCFTraining\TransactionsDemo\WebHost\bin\ProductsServiceLibrary.pdb
+E:\WCFTraining\TransactionsDemo\WebHost\obj\Debug\WebHost.csprojResolveAssemblyReference.cache
+E:\WCFTraining\TransactionsDemo\WebHost\obj\Debug\WebHost.dll
+E:\WCFTraining\TransactionsDemo\WebHost\obj\Debug\WebHost.pdb

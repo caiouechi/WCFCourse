@@ -1,0 +1,11 @@
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\bin\Debug\WindowsClient3.exe.config
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\bin\Debug\WindowsClient3.exe
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\bin\Debug\WindowsClient3.pdb
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\bin\Debug\MathServiceLibrary.dll
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\bin\Debug\MathServiceLibrary.pdb
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.csprojResolveAssemblyReference.cache
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.Form1.resources
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.Properties.Resources.resources
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.csproj.GenerateResource.Cache
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.exe
+e:\WCFTraining\SelfHostingDemo\WindowsClient3\obj\Debug\WindowsClient3.pdb

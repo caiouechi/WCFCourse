@@ -1,0 +1,8 @@
+E:\WCFTraining\WCFConcurrencyDemo\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+E:\WCFTraining\WCFConcurrencyDemo\SelfHost\bin\Debug\SelfHost.exe.config
+E:\WCFTraining\WCFConcurrencyDemo\SelfHost\bin\Debug\SelfHost.exe
+E:\WCFTraining\WCFConcurrencyDemo\SelfHost\bin\Debug\SelfHost.pdb
+E:\WCFTraining\WCFConcurrencyDemo\SelfHost\bin\Debug\ProductsServiceLibrary.dll
+E:\WCFTraining\WCFConcurrencyDemo\SelfHost\bin\Debug\ProductsServiceLibrary.pdb
+E:\WCFTraining\WCFConcurrencyDemo\SelfHost\obj\Debug\SelfHost.exe
+E:\WCFTraining\WCFConcurrencyDemo\SelfHost\obj\Debug\SelfHost.pdb

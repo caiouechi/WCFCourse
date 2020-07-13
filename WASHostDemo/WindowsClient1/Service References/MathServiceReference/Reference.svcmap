@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6306ac81-203c-41e1-9047-5add7c249c56" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8085/WASHostSite/MathService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MathService.xsd" MetadataType="Schema" ID="0197dcd9-f583-41f1-af31-851b595bc3a8" SourceId="1" SourceUrl="http://localhost:8085/WASHostSite/MathService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MathService.wsdl" MetadataType="Wsdl" ID="50ea4205-0612-4d15-a243-78f543e7269a" SourceId="1" SourceUrl="http://localhost:8085/WASHostSite/MathService.svc?wsdl" />
+    <MetadataFile FileName="MathService.disco" MetadataType="Disco" ID="d9a17725-1025-429b-84b3-3c0672a8525c" SourceId="1" SourceUrl="http://localhost:8085/WASHostSite/MathService.svc?disco" />
+    <MetadataFile FileName="MathService1.xsd" MetadataType="Schema" ID="1a4dc492-a8fc-44ea-bb66-e350943825f5" SourceId="1" SourceUrl="http://localhost:8085/WASHostSite/MathService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MathService2.xsd" MetadataType="Schema" ID="1d8647b2-f7cf-420a-a559-6f35410b94e1" SourceId="1" SourceUrl="http://localhost:8085/WASHostSite/MathService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

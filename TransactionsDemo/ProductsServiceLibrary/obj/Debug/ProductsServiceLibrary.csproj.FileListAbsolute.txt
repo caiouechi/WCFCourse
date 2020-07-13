@@ -1,0 +1,6 @@
+E:\WCFTraining\TransactionsDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll.config
+E:\WCFTraining\TransactionsDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll
+E:\WCFTraining\TransactionsDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.pdb
+E:\WCFTraining\TransactionsDemo\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.dll
+E:\WCFTraining\TransactionsDemo\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.pdb
+E:\WCFTraining\TransactionsDemo\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.csprojResolveAssemblyReference.cache

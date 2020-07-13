@@ -1,0 +1,5 @@
+E:\WCFTraining\WCFConcurrencyDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll.config
+E:\WCFTraining\WCFConcurrencyDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.dll
+E:\WCFTraining\WCFConcurrencyDemo\ProductsServiceLibrary\bin\Debug\ProductsServiceLibrary.pdb
+E:\WCFTraining\WCFConcurrencyDemo\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.dll
+E:\WCFTraining\WCFConcurrencyDemo\ProductsServiceLibrary\obj\Debug\ProductsServiceLibrary.pdb

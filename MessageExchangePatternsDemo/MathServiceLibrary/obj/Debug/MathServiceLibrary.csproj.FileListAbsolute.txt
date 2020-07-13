@@ -1,0 +1,11 @@
+e:\WCFTraining\MathServiceLibraryDemo\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll.config
+e:\WCFTraining\MathServiceLibraryDemo\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll
+e:\WCFTraining\MathServiceLibraryDemo\MathServiceLibrary\bin\Debug\MathServiceLibrary.pdb
+e:\WCFTraining\MathServiceLibraryDemo\MathServiceLibrary\obj\Debug\MathServiceLibrary.csprojResolveAssemblyReference.cache
+e:\WCFTraining\MathServiceLibraryDemo\MathServiceLibrary\obj\Debug\MathServiceLibrary.dll
+e:\WCFTraining\MathServiceLibraryDemo\MathServiceLibrary\obj\Debug\MathServiceLibrary.pdb
+E:\WCFTraining\MessageExchangePatternsDemo\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll.config
+E:\WCFTraining\MessageExchangePatternsDemo\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll
+E:\WCFTraining\MessageExchangePatternsDemo\MathServiceLibrary\bin\Debug\MathServiceLibrary.pdb
+E:\WCFTraining\MessageExchangePatternsDemo\MathServiceLibrary\obj\Debug\MathServiceLibrary.dll
+E:\WCFTraining\MessageExchangePatternsDemo\MathServiceLibrary\obj\Debug\MathServiceLibrary.pdb

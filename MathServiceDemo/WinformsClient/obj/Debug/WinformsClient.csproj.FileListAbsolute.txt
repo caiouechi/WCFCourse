@@ -1,0 +1,9 @@
+e:\WCFTraining\MathServiceDemo\WinformsClient\bin\Debug\WinformsClient.exe.config
+e:\WCFTraining\MathServiceDemo\WinformsClient\bin\Debug\WinformsClient.exe
+e:\WCFTraining\MathServiceDemo\WinformsClient\bin\Debug\WinformsClient.pdb
+e:\WCFTraining\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.csprojResolveAssemblyReference.cache
+e:\WCFTraining\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.Form1.resources
+e:\WCFTraining\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.Properties.Resources.resources
+e:\WCFTraining\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.csproj.GenerateResource.Cache
+e:\WCFTraining\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.exe
+e:\WCFTraining\MathServiceDemo\WinformsClient\obj\Debug\WinformsClient.pdb

@@ -1,0 +1,6 @@
+e:\WCFTraining\MathServiceDemo\MathService\bin\MathService.dll.config
+e:\WCFTraining\MathServiceDemo\MathService\bin\MathService.dll
+e:\WCFTraining\MathServiceDemo\MathService\bin\MathService.pdb
+e:\WCFTraining\MathServiceDemo\MathService\obj\Debug\MathService.csprojResolveAssemblyReference.cache
+e:\WCFTraining\MathServiceDemo\MathService\obj\Debug\MathService.dll
+e:\WCFTraining\MathServiceDemo\MathService\obj\Debug\MathService.pdb

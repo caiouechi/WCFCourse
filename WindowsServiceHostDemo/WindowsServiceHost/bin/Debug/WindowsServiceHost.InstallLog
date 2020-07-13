@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = E:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+Installing service MathService...
+Service MathService has been successfully installed.
+Creating EventLog source MathService in log Application...
+Committing assembly 'E:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\WindowsServiceHost.InstallLog
+   assemblypath = E:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe

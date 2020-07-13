@@ -1,0 +1,16 @@
+e:\WCFTraining\SelfHostingDemo\SelfHost\bin\Debug\SelfHost.exe.config
+e:\WCFTraining\SelfHostingDemo\SelfHost\bin\Debug\SelfHost.exe
+e:\WCFTraining\SelfHostingDemo\SelfHost\bin\Debug\SelfHost.pdb
+e:\WCFTraining\SelfHostingDemo\SelfHost\bin\Debug\MathServiceLibrary.dll
+e:\WCFTraining\SelfHostingDemo\SelfHost\bin\Debug\MathServiceLibrary.pdb
+e:\WCFTraining\SelfHostingDemo\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+e:\WCFTraining\SelfHostingDemo\SelfHost\obj\Debug\SelfHost.exe
+e:\WCFTraining\SelfHostingDemo\SelfHost\obj\Debug\SelfHost.pdb
+E:\WCFTraining\SelfHostingThroughConfigFilesDemo\SelfHost\bin\Debug\SelfHost.exe.config
+E:\WCFTraining\SelfHostingThroughConfigFilesDemo\SelfHost\obj\Debug\SelfHost.exe
+E:\WCFTraining\SelfHostingThroughConfigFilesDemo\SelfHost\obj\Debug\SelfHost.pdb
+E:\WCFTraining\SelfHostingThroughConfigFilesDemo\SelfHost\bin\Debug\SelfHost.exe
+E:\WCFTraining\SelfHostingThroughConfigFilesDemo\SelfHost\bin\Debug\SelfHost.pdb
+E:\WCFTraining\SelfHostingThroughConfigFilesDemo\SelfHost\bin\Debug\MathServiceLibrary.dll
+E:\WCFTraining\SelfHostingThroughConfigFilesDemo\SelfHost\bin\Debug\MathServiceLibrary.pdb
+E:\WCFTraining\SelfHostingThroughConfigFilesDemo\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache

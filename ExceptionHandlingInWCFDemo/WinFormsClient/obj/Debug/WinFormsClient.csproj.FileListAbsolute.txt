@@ -1,0 +1,17 @@
+e:\WCFTraining\MathServiceLibraryDemo\WinFormsClient\bin\Debug\WinFormsClient.exe.config
+e:\WCFTraining\MathServiceLibraryDemo\WinFormsClient\bin\Debug\WinFormsClient.exe
+e:\WCFTraining\MathServiceLibraryDemo\WinFormsClient\bin\Debug\WinFormsClient.pdb
+e:\WCFTraining\MathServiceLibraryDemo\WinFormsClient\obj\Debug\WinFormsClient.csprojResolveAssemblyReference.cache
+e:\WCFTraining\MathServiceLibraryDemo\WinFormsClient\obj\Debug\WinFormsClient.Form1.resources
+e:\WCFTraining\MathServiceLibraryDemo\WinFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+e:\WCFTraining\MathServiceLibraryDemo\WinFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.Cache
+e:\WCFTraining\MathServiceLibraryDemo\WinFormsClient\obj\Debug\WinFormsClient.exe
+e:\WCFTraining\MathServiceLibraryDemo\WinFormsClient\obj\Debug\WinFormsClient.pdb
+E:\WCFTraining\ExceptionHandlingInWCFDemo\WinFormsClient\bin\Debug\WinFormsClient.exe.config
+E:\WCFTraining\ExceptionHandlingInWCFDemo\WinFormsClient\bin\Debug\WinFormsClient.exe
+E:\WCFTraining\ExceptionHandlingInWCFDemo\WinFormsClient\bin\Debug\WinFormsClient.pdb
+E:\WCFTraining\ExceptionHandlingInWCFDemo\WinFormsClient\obj\Debug\WinFormsClient.Form1.resources
+E:\WCFTraining\ExceptionHandlingInWCFDemo\WinFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+E:\WCFTraining\ExceptionHandlingInWCFDemo\WinFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.Cache
+E:\WCFTraining\ExceptionHandlingInWCFDemo\WinFormsClient\obj\Debug\WinFormsClient.exe
+E:\WCFTraining\ExceptionHandlingInWCFDemo\WinFormsClient\obj\Debug\WinFormsClient.pdb

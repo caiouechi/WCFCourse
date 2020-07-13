@@ -1,0 +1,9 @@
+E:\WCFTraining\TransactionsDemo\WindowsClient\bin\Debug\WindowsClient.exe.config
+E:\WCFTraining\TransactionsDemo\WindowsClient\bin\Debug\WindowsClient.exe
+E:\WCFTraining\TransactionsDemo\WindowsClient\bin\Debug\WindowsClient.pdb
+E:\WCFTraining\TransactionsDemo\WindowsClient\obj\Debug\WindowsClient.Form1.resources
+E:\WCFTraining\TransactionsDemo\WindowsClient\obj\Debug\WindowsClient.Properties.Resources.resources
+E:\WCFTraining\TransactionsDemo\WindowsClient\obj\Debug\WindowsClient.csproj.GenerateResource.Cache
+E:\WCFTraining\TransactionsDemo\WindowsClient\obj\Debug\WindowsClient.exe
+E:\WCFTraining\TransactionsDemo\WindowsClient\obj\Debug\WindowsClient.pdb
+E:\WCFTraining\TransactionsDemo\WindowsClient\obj\Debug\WindowsClient.csprojResolveAssemblyReference.cache

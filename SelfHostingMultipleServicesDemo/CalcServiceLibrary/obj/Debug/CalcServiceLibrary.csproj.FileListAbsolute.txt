@@ -1,0 +1,12 @@
+e:\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\bin\Debug\CalcServiceLibrary.dll.config
+e:\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\bin\Debug\CalcServiceLibrary.dll
+e:\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\bin\Debug\CalcServiceLibrary.pdb
+e:\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\obj\Debug\CalcServiceLibrary.csprojResolveAssemblyReference.cache
+e:\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\obj\Debug\CalcServiceLibrary.dll
+e:\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\obj\Debug\CalcServiceLibrary.pdb
+D:\Github\Studies\WCFCourse\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\bin\Debug\CalcServiceLibrary.dll.config
+D:\Github\Studies\WCFCourse\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\bin\Debug\CalcServiceLibrary.dll
+D:\Github\Studies\WCFCourse\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\bin\Debug\CalcServiceLibrary.pdb
+D:\Github\Studies\WCFCourse\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\obj\Debug\CalcServiceLibrary.csprojAssemblyReference.cache
+D:\Github\Studies\WCFCourse\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\obj\Debug\CalcServiceLibrary.dll
+D:\Github\Studies\WCFCourse\WCFTraining\SelfHostingMultipleServicesDemo\CalcServiceLibrary\obj\Debug\CalcServiceLibrary.pdb

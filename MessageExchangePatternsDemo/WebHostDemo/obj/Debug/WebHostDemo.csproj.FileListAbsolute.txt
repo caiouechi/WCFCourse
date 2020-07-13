@@ -1,0 +1,16 @@
+e:\WCFTraining\MathServiceLibraryDemo\WebHostDemo\bin\WebHostDemo.dll.config
+e:\WCFTraining\MathServiceLibraryDemo\WebHostDemo\bin\WebHostDemo.dll
+e:\WCFTraining\MathServiceLibraryDemo\WebHostDemo\bin\WebHostDemo.pdb
+e:\WCFTraining\MathServiceLibraryDemo\WebHostDemo\bin\MathServiceLibrary.dll
+e:\WCFTraining\MathServiceLibraryDemo\WebHostDemo\bin\MathServiceLibrary.pdb
+e:\WCFTraining\MathServiceLibraryDemo\WebHostDemo\obj\Debug\WebHostDemo.csprojResolveAssemblyReference.cache
+e:\WCFTraining\MathServiceLibraryDemo\WebHostDemo\obj\Debug\WebHostDemo.dll
+e:\WCFTraining\MathServiceLibraryDemo\WebHostDemo\obj\Debug\WebHostDemo.pdb
+E:\WCFTraining\MessageExchangePatternsDemo\WebHostDemo\bin\WebHostDemo.dll.config
+E:\WCFTraining\MessageExchangePatternsDemo\WebHostDemo\bin\WebHostDemo.dll
+E:\WCFTraining\MessageExchangePatternsDemo\WebHostDemo\bin\WebHostDemo.pdb
+E:\WCFTraining\MessageExchangePatternsDemo\WebHostDemo\bin\MathServiceLibrary.dll
+E:\WCFTraining\MessageExchangePatternsDemo\WebHostDemo\bin\MathServiceLibrary.pdb
+E:\WCFTraining\MessageExchangePatternsDemo\WebHostDemo\obj\Debug\WebHostDemo.csprojResolveAssemblyReference.cache
+E:\WCFTraining\MessageExchangePatternsDemo\WebHostDemo\obj\Debug\WebHostDemo.dll
+E:\WCFTraining\MessageExchangePatternsDemo\WebHostDemo\obj\Debug\WebHostDemo.pdb

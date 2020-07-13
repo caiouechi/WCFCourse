@@ -1,0 +1,10 @@
+e:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe.config
+e:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+e:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\WindowsServiceHost.pdb
+e:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\MathServiceLibrary.dll
+e:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\bin\Debug\MathServiceLibrary.pdb
+e:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\obj\Debug\WindowsServiceHost.csprojResolveAssemblyReference.cache
+e:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\obj\Debug\WindowsServiceHost.ProjectInstaller.resources
+e:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.GenerateResource.Cache
+e:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\obj\Debug\WindowsServiceHost.exe
+e:\WCFTraining\WindowsServiceHostDemo\WindowsServiceHost\obj\Debug\WindowsServiceHost.pdb
